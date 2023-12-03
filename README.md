@@ -5,4 +5,4 @@ I am Pan Jing Bin, a masters by research student at the National University of S
 
 ## Research
 
-My interests lie in statistics and probability. My recent work focus on statistical estimation in the multi-reference alignment model. My current supervisor is Assistant Professor Subhroshekhar Ghosh.
+My interests lie in statistics and probability. My recent work focus on statistical estimation in the multi-reference alignment model. I am currently working on nonparametric maximum likelihood estimation in mixture models.
