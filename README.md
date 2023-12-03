@@ -1,3 +1,3 @@
 # Pan Jing Bin
 
-I am currently a masters by research student   
+I am Pan Jing Bin, a masters by research in mathematics student at the National University of Singapore.
