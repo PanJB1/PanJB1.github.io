@@ -5,4 +5,4 @@ I am Pan Jing Bin, a masters by research student at the National University of S
 
 ## Research
 
- My current supervisor is Professor Subhroshekhar Ghosh. 
+ My current supervisor is Professor Subhroshekhar Ghosh. I study statistics and probability. My recent work focus on statistical estimation and
