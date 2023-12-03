@@ -1,6 +1,6 @@
 # Pan Jing Bin
 
-##### Email:
+#### Email:
 jingbin.pan1@gmail.com
 
 ## About me
