@@ -11,3 +11,8 @@ I am Pan Jing Bin, a masters by research student at the National University of S
 My interests lie in statistics and probability. My recent work focus on statistical estimation in the multi-reference alignment model. I am currently working on the problem of nonparametric maximum likelihood estimation in mixture models.
 
 ## Publications
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
