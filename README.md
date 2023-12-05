@@ -1,4 +1,4 @@
-# Pan Jing Bin
+# Pan Jing 
 
 #### Email:
 jingbin.pan1@gmail.com
